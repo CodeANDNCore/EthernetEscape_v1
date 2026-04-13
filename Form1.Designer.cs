@@ -1,0 +1,5 @@
+﻿namespace CodeAndCore_NetTool
+{
+
+}
+
